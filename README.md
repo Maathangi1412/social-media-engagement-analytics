@@ -109,7 +109,6 @@ The analysis demonstrates how Python can be used to clean, transform, analyze, a
 
 - `social_media_engagement_5000.csv` — Original dataset
 - `Social_Media_Engagement_Analytics.ipynb` — Python/Google Colab notebook
-- `social_media_engagement_cleaned.csv` — Cleaned dataset
 - `README.md` — Project documentation
 
 **👩‍💻 Author**
